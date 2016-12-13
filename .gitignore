@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# output file
+src/output.jpg
+src/output.ply
